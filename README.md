@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on [EnglishLearn](https://englishlearn.vercel.app)
 
-- 📝 I regularly write articles on [https://systemdesignarc.wordpress.com](https://systemdesignarc.wordpress.com)
+- 📝 I regularly write articles on [TechWorld](https://systemdesignarc.wordpress.com)
 
 - 💬 Ask me about **DevOps, Cloud Computing, Linux, Solution/System Architecture**
 
 - 📫 How to reach me **thinhnp13.swe@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/thinhnp13](www.linkedin.com/in/thinhnp13)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/thinhnp13)
 
 - ⚡ Fun fact **I think I am a Generalist**
 
