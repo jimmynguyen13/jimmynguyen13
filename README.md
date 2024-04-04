@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Backup MongoDB large volume](https://systemdesignarc.wordpress.com/2024/03/02/backup-mongodb-large-volume/)
+- [DevOps Dictionary for Human Beings](https://systemdesignarc.wordpress.com/2023/12/28/devops-dictionary-for-human-beings/)
+- [Tổng quan về kiến trúc phần mềm – Software Architecture](https://systemdesignarc.wordpress.com/2023/10/01/tong-quan-ve-kien-truc-phan-mem-software-architecture/)
+- [Time &amp; Space Complexity Cheat Sheet](https://systemdesignarc.wordpress.com/2023/09/29/time-space-complexity-cheat-sheet/)
+- [CAP Theorem](https://systemdesignarc.wordpress.com/2023/09/28/cap-theorem/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
