@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmynguyen13&label=Profile%20views&color=0e75b6&style=flat" alt="jimmynguyen13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmynguyen13" alt="jimmynguyen13" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmynguyen13" alt="jimmynguyen13" /></a> </p> -->
 
 - 🌱 I’m currently learning **AWS Solution Architect Professional**
 
