@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [25 DevOps mindset](https://systemdesignarc.wordpress.com/2025/05/17/25-devops-mindset/)
 - [AWS SAA-C03 Exam notes](https://systemdesignarc.wordpress.com/2024/06/11/aws-saa-c03-exam-notes/)
 - [Triển khai CI/CD trên AWS CodePipeline](https://systemdesignarc.wordpress.com/2024/05/23/trien-khai-ci-cd-tren-aws-codepipeline/)
 - [Backup MongoDB large volume](https://systemdesignarc.wordpress.com/2024/03/02/backup-mongodb-large-volume/)
 - [DevOps Dictionary for Human Beings](https://systemdesignarc.wordpress.com/2023/12/28/devops-dictionary-for-human-beings/)
-- [Tổng quan về kiến trúc phần mềm – Software Architecture](https://systemdesignarc.wordpress.com/2023/10/01/tong-quan-ve-kien-truc-phan-mem-software-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
