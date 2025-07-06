@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [API Design and Real-World Practices](https://systemdesignarc.wordpress.com/2025/07/06/api-design-and-real-world-practices/)
 - [System Design &amp; Scalability Interview](https://systemdesignarc.wordpress.com/2025/07/03/system-design-scalability-interview/)
 - [25 DevOps mindset](https://systemdesignarc.wordpress.com/2025/05/17/25-devops-mindset/)
 - [AWS SAA-C03 Exam notes](https://systemdesignarc.wordpress.com/2024/06/11/aws-saa-c03-exam-notes/)
 - [Triển khai CI/CD trên AWS CodePipeline](https://systemdesignarc.wordpress.com/2024/05/23/trien-khai-ci-cd-tren-aws-codepipeline/)
-- [Backup MongoDB large volume](https://systemdesignarc.wordpress.com/2024/03/02/backup-mongodb-large-volume/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
