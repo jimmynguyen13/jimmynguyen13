@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Database – Data Strategy](https://systemdesignarc.wordpress.com/2025/07/17/database-data-strategy/)
 - [Security in Auth System](https://systemdesignarc.wordpress.com/2025/07/08/security-in-auth-system/)
 - [API Design and Real-World Practices](https://systemdesignarc.wordpress.com/2025/07/06/api-design-and-real-world-practices/)
 - [System Design &amp; Scalability Interview](https://systemdesignarc.wordpress.com/2025/07/03/system-design-scalability-interview/)
 - [25 DevOps mindset](https://systemdesignarc.wordpress.com/2025/05/17/25-devops-mindset/)
-- [AWS SAA-C03 Exam notes](https://systemdesignarc.wordpress.com/2024/06/11/aws-saa-c03-exam-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
