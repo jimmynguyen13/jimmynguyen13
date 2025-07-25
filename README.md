@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps – Monitoring – Logging Interview](https://systemdesignarc.wordpress.com/2025/07/25/devops-monitoring-logging-interview/)
 - [Messaging – Async in Real World](https://systemdesignarc.wordpress.com/2025/07/21/messaging-async/)
 - [Database – Data Strategy](https://systemdesignarc.wordpress.com/2025/07/17/database-data-strategy/)
 - [Security in Auth System](https://systemdesignarc.wordpress.com/2025/07/08/security-in-auth-system/)
 - [API Design and Real-World Practices](https://systemdesignarc.wordpress.com/2025/07/06/api-design-and-real-world-practices/)
-- [System Design &amp; Scalability Interview](https://systemdesignarc.wordpress.com/2025/07/03/system-design-scalability-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
