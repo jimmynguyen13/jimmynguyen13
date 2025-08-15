@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [API Design in Real-world](https://systemdesignarc.wordpress.com/2025/08/15/api-design-in-real-world/)
 - [Sai lầm trong query SQL và cách tối ưu](https://systemdesignarc.wordpress.com/2025/08/08/sai-lam-trong-query-sql-va-cach-toi-uu/)
 - [Code quality – Process Optimization](https://systemdesignarc.wordpress.com/2025/08/01/code-quality-process-optimize/)
 - [DevOps – Monitoring – Logging Interview](https://systemdesignarc.wordpress.com/2025/07/25/devops-monitoring-logging-interview/)
 - [Messaging – Async in Real World](https://systemdesignarc.wordpress.com/2025/07/21/messaging-async/)
-- [Database – Data Strategy](https://systemdesignarc.wordpress.com/2025/07/17/database-data-strategy/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
